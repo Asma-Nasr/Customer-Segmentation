@@ -8,6 +8,10 @@ Task 5 @Elevvo ML Internship
 4. Apply K-Means clustering and determine optimal number of clusters.
 5. Visualize clusters using 2D plots.
 
+### Bonus:
+1. Try different clustering algorithms (e.g., DBSCAN).
+2. Analyze average spending per cluster.
+
 ## Dataset
 - [Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
