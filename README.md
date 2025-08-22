@@ -16,4 +16,4 @@ Task 5 @Elevvo ML Internship
 - [Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 ## Notebook
-- [Customer Segmentation]()
+- [Customer Segmentation](https://github.com/Asma-Nasr/Customer-Segmentation/blob/main/Customer%20Segmentation.ipynb)
